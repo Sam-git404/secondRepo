@@ -2,6 +2,4 @@
 
 <p>My second repositry</p>
 
-<br>
-
-<h2>This is F2 branch</h2>
+<h2>This is F1 branch (button)</h2>
